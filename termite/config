@@ -60,13 +60,15 @@ highlight = #2f2f2f
 [colors]
 
 # transparency
-background = rgba(63, 63, 63, 0.8)
+background = rgba(63, 63, 63, 0.9)
 
 # special
-foreground      = #f57900
+foreground = #f57900
 foreground_bold = #f57900
-cursor          = #310632
-background      = #273444
+cursor = #310632
+#backgorund = #35000e
+#background = #ffe5ec
+background = #273444
 
 # black
 color0  = #ffffff
