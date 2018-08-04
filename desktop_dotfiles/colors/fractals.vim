@@ -62,7 +62,7 @@ hi PMenuSel guifg=#efefef guibg=#303030 guisp=#303030 gui=NONE ctermfg=255 cterm
 hi Search guifg=#313131 guibg=#cd8b60 guisp=#cd8b60 gui=NONE ctermfg=236 ctermbg=173 cterm=NONE
 hi Delimiter guifg=#c181d1 guibg=NONE guisp=NONE gui=NONE ctermfg=176 ctermbg=NONE cterm=NONE
 hi Statement guifg=#00afaf guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
-hi Comment guifg=#ff8787 guibg=NONE guisp=NONE gui=bold,italic,underline ctermfg=210 ctermbg=NONE cterm=bold,underline
+hi Comment guifg=#ff8787 guibg=NONE guisp=NONE gui=bold,italic,underline ctermfg=210 ctermbg=NONE cterm=italic
 hi Character guifg=#ffcd8b guibg=NONE guisp=NONE gui=NONE ctermfg=222 ctermbg=NONE cterm=NONE
 hi Float guifg=#f0ac6d guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
 hi Number guifg=#f0ac6d guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
