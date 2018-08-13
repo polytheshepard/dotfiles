@@ -48,7 +48,7 @@ hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=
 hi Todo guifg=#F9F9FF guibg=#ff5f5f guisp=#ff5f5f gui=NONE ctermfg=189 ctermbg=203 cterm=NONE
 hi Special guifg=#ffff00 guibg=NONE guisp=NONE gui=NONE ctermfg=11 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#afff00 guibg=NONE guisp=NONE gui=NONE ctermfg=154 ctermbg=NONE cterm=NONE
-hi StatusLine guifg=#192224 guibg=#00ffff guisp=#00ffff gui=bold ctermfg=235 ctermbg=14 cterm=bold
+hi StatusLine guifg=#192224 guibg=#00ffff guisp=#00ffff gui=bold ctermfg=232 ctermbg=51 cterm=bold
 hi Label guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#444444 guibg=#d7d700 guisp=#d7d700 gui=NONE ctermfg=238 ctermbg=184 cterm=NONE
 hi Search guifg=#1c1c1c guibg=#afff00 guisp=#afff00 gui=NONE ctermfg=234 ctermbg=154 cterm=NONE
@@ -66,7 +66,7 @@ hi TabLineFill guifg=#192224 guibg=#00ffff guisp=#00ffff gui=bold ctermfg=235 ct
 hi WarningMsg guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
 hi VisualNOS guifg=#192224 guibg=#F9F9FF guisp=#F9F9FF gui=underline ctermfg=235 ctermbg=189 cterm=underline
 hi DiffDelete guifg=NONE guibg=#192224 guisp=#192224 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
-hi ModeMsg guifg=#F9F9F9 guibg=#0087af guisp=#0087af gui=bold ctermfg=15 ctermbg=31 cterm=bold
+hi ModeMsg guifg=#F9F9F9 guibg=#0087af guisp=#0087af gui=bold ctermfg=232 ctermbg=154 cterm=bold
 hi CursorColumn guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Function guifg=#00ffaf guibg=NONE guisp=NONE gui=bold ctermfg=49 ctermbg=NONE cterm=bold
