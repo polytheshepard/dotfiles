@@ -57,6 +57,8 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set ts=4 sw=4 et si
+set whichwrap +=<,>,[,]
+set smartindent
  
 " Indentation settings for using hard tabs for indent. Display tabs as
 " four characters wide.
@@ -87,9 +89,13 @@ autocmd vimenter * NERDTree
 
 " gruvbox Configuration
 set background=dark
-colorscheme gruvbox
+colorscheme parallel
 
 let g:gruvbox_vert_split = 'bg1'
 let g:gruvbox_sign_column = 'bg0'
 let g:gruvbox_italic = '1'
 let g:gruvbox_italicize_comments = '1'
+
+" Clang
+let g:clang_library_path='/usr/lib/libclang.so'
+autocmd vimenter * ClangFormatAutoEnable
